@@ -1,41 +1,15 @@
-# 💫 About Me  
-✅ I’ve recently worked on:  
-- **BudBloom 🌱** – an AI-powered plant disease detection system  
-- **Gen AI Capstone Project** – successfully completed and submitted  
+## Hi there, I'm Yashesh 👋
 
-👥 I’m looking to collaborate on: **AI and deep learning projects**, especially in **medical imaging** and **plant disease detection**  
-🤝 I’m looking for help with: **Optimizing on-device ML inference** for my **React Native** app  
-🌱 I’m currently learning: **Gen AI**, **mobile app development**, and **model deployment on edge devices**  
-💬 Ask me about: **Deep learning**, **BeagleBone Blue**, **medical image segmentation**, and **AI-powered applications**  
-⚡ Fun fact: I enjoy exploring AI models so much that I even test them on the most unexpected datasets!
+I'm a passionate developer and AI enthusiast focused on building innovative solutions at the intersection of **computer vision**, **machine learning** and **embedded systems**.
 
----
-
-# 🧠 Open-Ended Project (OEP)  
-## Kidney & Tumor Segmentation from 3D CT Scans using SAM-2  
-We adapt Meta’s promptable Segment Anything Model v2 (SAM‑2) to automate slice‑level segmentation of kidneys and tumors from the KiTS23 3D CT dataset. After resizing and normalizing ~7,800 axial slices, we fine‑tune SAM‑2 for 100 epochs—achieving 96.03 % IoU on training and 96.05 % on validation, a >6 % gain over DeepLabv3+. The repo provides:
-
-Data Prep: 3D‑to‑2D conversion, augmentation, split
-
-Training: train.py with Hydra configs
-
-Volume Reconstruction: aggregate3d.py for 3D consistency
-
-A lightweight 3D‑CRF module ensures smooth volumetric masks—demonstrating foundation models’ power in medical imaging.
-
-📝 **Currently working on research paper writing and publication process in IEEE.**
-
-**Tech Stack:**  
-`SAM-2` · `KiTS23` · `PyTorch` · `SimpleITK` · `Google Colab`
-
----
-
-### ➕ Built on top of this:  
-## 💡 MIAI – Medical Imaging AI  
-An interactive **GenAI-powered assistant** using **LangGraph + Gemini API** to deliver clinical insights from segmented medical images.
-
----
-
+### 🚀 About Me
+- 📚 Deeply interested in AI-powered medical imaging, robotics, and edge computing
+- 🤖 Experienced with BeagleBone Blue, robotic arms, and real-time object identification
+- 🧠 Skilled in Python, TensorFlow, PyTorch, and working with advanced deep learning models like SAM2
+- 🌱 Currently exploring GenAI, LangGraph, and function calling with Gemini API
+- 💡 I enjoy solving real-world problems through AI and automation
+- 🔭 Working on projects like AI-powered plant disease detection, smart attendance systems, and medical tumor segmentation
+  
 # 🚀 Projects Timeline
 
 ## 🟢 Ongoing
