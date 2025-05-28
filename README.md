@@ -3,12 +3,12 @@
 I'm a passionate developer and AI enthusiast focused on building innovative solutions at the intersection of **computer vision**, **machine learning** and **embedded systems**.
 
 ### 🚀 About Me
-- 📚 Deeply interested in AI-powered medical imaging, robotics, and edge computing
-- 🤖 Experienced with BeagleBone Blue, robotic arms, and real-time object identification
-- 🧠 Skilled in Python, TensorFlow, PyTorch, and working with advanced deep learning models like SAM2
-- 🌱 Currently exploring GenAI, LangGraph, and function calling with Gemini API
-- 💡 I enjoy solving real-world problems through AI and automation
-- 🔭 Working on projects like AI-powered plant disease detection, smart attendance systems, and medical tumor segmentation
+- Deeply interested in AI-powered medical imaging, robotics, and edge computing
+- Experienced with BeagleBone Blue, robotic arms, and real-time object identification
+- Skilled in Python, TensorFlow, PyTorch, and working with advanced deep learning models like SAM2
+- Currently exploring GenAI, LangGraph, and function calling with Gemini API
+- I enjoy solving real-world problems through AI and automation
+- Working on projects like AI-powered plant disease detection, smart attendance systems, and medical tumor segmentation
   
 # 🚀 Projects Timeline
 
