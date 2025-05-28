@@ -36,6 +36,70 @@ An interactive **GenAI-powered assistant** using **LangGraph + Gemini API** to d
 
 ---
 
+# 🚀 Projects Timeline
+
+## 🟢 Ongoing
+
+### 🎯 Smart Attendance System
+
+An edge-based, privacy-focused facial recognition system with:
+
+* Real-time attendance logging
+* Hybrid validation and energy-efficient design
+* Session history, downloadable reports, and UI enhancements
+  **Tech:** OpenCV · FaceNet · SQLite · Flask
+
+### 🧠 Kidney & Tumor Segmentation from 3D CT Scans using SAM‑2
+
+Fine-tuned Meta’s Segment Anything Model v2 (SAM‑2) on the KiTS23 dataset to perform accurate slice-level segmentation of kidneys and tumors from 3D abdominal CT scans.
+
+* Achieved 96.05% validation IoU
+* Preparing research paper for IEEE submission
+  **Tech:** PyTorch · SimpleITK · Google Colab · Kaggle · Mango
+
+### 💬 MIAI – Medical Imaging AI Assistant
+
+GenAI-powered assistant built using LangGraph + Gemini API
+
+* Provides clinical insights from segmented medical scans
+  **Tech:** LangGraph · Gemini API · RAG · Function Calling
+
+---
+
+## ✅ Completed
+
+### 🌱 BudBloom
+
+AI-powered plant disease detection platform
+
+* Trained model deployed via Flask web API
+* Detects disease, cause, and suggests remedies
+  **Tech:** CNN · Flask · Python · TensorFlow
+
+### 🧪 Gen AI Capstone Project
+
+Google-backed project focused on GenAI and medical imaging
+
+* Developed tumor diagnosis + treatment assistant
+* Embedded retrieval, search grounding, and function calling
+  **Tech:** Gemini API · LangGraph · Google Search Grounding · RAG
+
+### 🤖 Color-Based Robotic Arm Project
+
+Automated pick-and-place system using color detection
+
+* BeagleBone Blue + 4-axis robotic arm
+* Servo control via I2C and Robotics Cape library
+  **Tech:** BeagleBone Blue · OpenCV · I2C · Python · Robotics Cape
+
+### 🚆 Rail Inspection Suite
+
+Includes three industrial AI modules:
+
+* **Damaged Parts Detection System**
+* **Volume Calculation System**
+* **Wagon Number Identification System**
+  **Tech:** OpenCV · Deep Learning · Computer Vision
 
 
 
